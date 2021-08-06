@@ -17,7 +17,7 @@ Methods to solve common problems when working with Stubble
 Install-Package Zeats.Legacy.Stubble
 ```
 
-## Extensions
+## Methods
 
 ### StubbleHelper.Parse(string template, object data)
 Parse a template using an object value
